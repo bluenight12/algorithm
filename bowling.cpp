@@ -74,7 +74,6 @@ int main() {
     input >> count;
     bowl b;
     while(count!=0){
-        
         b.set();
         int result = b.sum();
         output << result << "\n";
