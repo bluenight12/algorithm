@@ -117,6 +117,7 @@ void LOOK() {
 	int a = 0;
 	int b = 0;
 	int t = 0;
+	
 	while (1) {
 		for (int j = 0; j < v.size(); j++) {
 			int a = v[j].first;

@@ -264,6 +264,7 @@ public:
 		}
 	}
 };
+
 int main() {
 	FIFO F;
 	LRU L;

@@ -8,6 +8,7 @@ int Dp[1000001];
 int arr_s[1000001];
 int main(int argc, char** argv)
 {
+	
 	int T, test_case;
 	Dp[1] = 0;
 	Dp[2] = 1;
