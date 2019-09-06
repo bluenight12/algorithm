@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.inp": "plaintext",
-        "istream": "cpp"
+        "istream": "cpp",
+        "utility": "cpp"
     }
 }
