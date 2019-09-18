@@ -2,6 +2,10 @@
     "files.associations": {
         "*.inp": "plaintext",
         "istream": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "fstream": "cpp",
+        "algorithm": "cpp",
+        "xiosbase": "cpp",
+        "iosfwd": "cpp"
     }
 }
