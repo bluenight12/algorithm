@@ -6,6 +6,7 @@
         "fstream": "cpp",
         "algorithm": "cpp",
         "xiosbase": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "xstring": "cpp"
     }
 }
